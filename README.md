@@ -1,4 +1,5 @@
 Chrome先安装 篡改猴，再装 https://greasyfork.org/zh-CN/users/1544853-ysinx
+
 一键屏蔽：在谷歌搜索结果旁边添加一个“屏蔽”按钮。
 
 主域名屏蔽：自动提取链接的主机名进行屏蔽。
