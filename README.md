@@ -1,4 +1,4 @@
-# Chrome先安装 篡改猴，再装 https://greasyfork.org/zh-CN/scripts/557982-google-search-domain-blocker-sort-by-time
+Chrome先安装 篡改猴，再装 https://greasyfork.org/zh-CN/scripts/557982-google-search-domain-blocker-sort-by-time
 
 一键屏蔽：在谷歌搜索结果旁边添加一个“屏蔽”按钮。
 
